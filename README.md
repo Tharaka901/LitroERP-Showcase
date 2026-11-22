@@ -71,8 +71,8 @@ A complete, production ERP system built for a **Litro Gas distributor in Sri Lan
 ### Route Cards
 ![Route Cards](screenshots/route-cards.png)
 
-### Delivery Note
-![Delivery Note](screenshots/delivery-note.png)
+### Purchasing
+![Delivery Note](screenshots/purchasing.png)
 
 ### Stock
 ![Stock](screenshots/stock.png)
