@@ -59,7 +59,7 @@ A complete, production ERP system built for a **Litro Gas distributor in Sri Lan
 | Backend | Laravel (PHP) |
 | Frontend | Blade templates, Bootstrap, JavaScript |
 | Database | MySQL |
-| Related apps | [Gas Billing mobile app](https://github.com/Tharaka901/MobileApp-GassBilling) (Flutter) · [Gas Dealer mobile app](https://github.com/Tharaka901/Mobile-App-GasDealer) (Flutter) |
+| Related apps | [Gas Billing mobile app](https://github.com/Tharaka901/GasBilling-App-Showcase) (Flutter) · [Gas Dealer mobile app](https://github.com/Tharaka901/GasDealer-App-Showcase) (Flutter) |
 
 ---
 
