@@ -97,4 +97,4 @@ _Coming soon_
 ## 👨‍💻 Developer
 
 **Tharaka Gunasinghe**, Full-stack Developer
-[GitHub](https://github.com/Tharaka901) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR.EMAIL@example.com)
+[GitHub](https://github.com/Tharaka901) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR.tharakamihiri@gmail.com)
